@@ -105,7 +105,7 @@
     </div>
   </nav>
 
-  <header class="bg-white shadow">
+  <header class="bg-white shadow font-serif">
     <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       {{ $heading }}
     </div>
