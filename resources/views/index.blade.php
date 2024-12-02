@@ -29,14 +29,23 @@
         </div>
     </div>
     <!-- About Section -->
-    <div class="flex justify-center items-center w-full h-full backdrop-brightness-50">
-        <div class="container px-32">
-            <h1 class="font-bold text-7xl font-serif text-decoration-line: text-yellow-400 my-3 subpixel-antialiased drop-shadow-lg">
+    <div class="flex justify-center items-center w-full h-full bg-[url('/img/about2.png')] bg-cover bg-fixed">
+        <div class="container p-28 backdrop-brightness-50 backdrop-blur-sm rounded-2xl">
+            <h1 class="font-bold text-7xl font-serif text-decoration-line: text-yellow-400 mb-5 subpixel-antialiased drop-shadow-lg">
                 About
             </h1>
             <p class="text-white text-2xl font-serif text-justify subpixel-antialiased drop-shadow-md">
-                A centralized platform designed to highlight and preserve the different capstone projects of FEU Tech students.
-                Explore a diverse collection of innovative solutions that reflect creativity, technical expertise, and real-world impact.
+                The FEU Tech Capstone Repository is a digital platform dedicated to showcasing the innovative and advanced projects created by the talented students of FEU Tech.
+                It serves as a hub for collaboration, inspiration, and academic excellence, offering access to a diverse range of capstone projects from various disciplines.
+                <br><br>
+                This repository allows users to explore projects with comprehensive details, including documentation, posters, and teaser materials.
+                It also features enhanced search and filtering options, making it easy to find projects based on title, advisor, tags, or other criteria.
+                Additionally, users can engage with the projects by rating and providing feedback, contributing to continuous learning and improvement.
+                <br><br>
+                The platform provides insightful statistics about project views and downloads, allowing users to track the impact of each project.
+                The mission of the repository is to celebrate student innovation, promote collaboration among students, faculty, and industry stakeholders,
+                and serve as a valuable resource for future researchers and developers. By fostering a culture of innovation, the FEU Tech Capstone Repository
+                highlights the potential of every student and contributes to the advancement of technology and research.
             </p>
         </div>
     </div>
